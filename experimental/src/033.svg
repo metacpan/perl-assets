@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="587.25983mm"
+   height="587.25977mm"
+   viewBox="0 0 587.25983 587.25976"
+   version="1.1"
+   id="svg779"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="advent_alt_source.svg"
+   inkscape:export-filename="2024-12-06_pre-advent-announce_comparator.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview781"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.06304666"
+     inkscape:cx="8176.4839"
+     inkscape:cy="5313.5249"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <sodipodi:guide
+       position="1052.8389,-931.62947"
+       orientation="1,0"
+       id="guide10628"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1576.8005,-2353.148"
+       orientation="1,0"
+       id="guide10632"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1658.1497,-1441.3745"
+       orientation="1,0"
+       id="guide17780"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2180.7328,-1517.6852"
+       orientation="1,0"
+       id="guide17782"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2275.6885,-1502.2239"
+       orientation="1,0"
+       id="guide17796"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2794.8596,-1581.7366"
+       orientation="1,0"
+       id="guide17798"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2912.1046,-733.17937"
+       orientation="0,1"
+       id="guide24170"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3436.0663,-669.64837"
+       orientation="1,0"
+       id="guide24172"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2911.6174,-239.99597"
+       orientation="1,0"
+       id="guide24174"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4064.1026,169.05763"
+       orientation="1,0"
+       id="guide31859"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4695.7981,-2298.991"
+       orientation="1,0"
+       id="guide31861"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs776" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(407.02074,1425.3915)">
+    <g
+       id="g14380"
+       transform="translate(0,-211.66673)"
+       inkscape:export-filename="../../metacpan/perl-assets/experiments/exports/033.png"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72">
+      <circle
+         style="fill:#e9e9e9;fill-opacity:1;stroke-width:0.122307"
+         id="circle12571"
+         cx="-112.58117"
+         cy="-920.57898"
+         r="252.06749"
+         inkscape:export-filename="exports/2024-12-06_pre-advent-announce_more_1.png"
+         inkscape:export-xdpi="72"
+         inkscape:export-ydpi="72" />
+      <path
+         class="cls-2"
+         d="m 47.226497,-801.20585 c 0.6517,25.7191 14.7793,62.3265 14.7793,62.3265 l -10.9808,15.1201 c -14.9759,4.9224 -19.6869,-4.1456 -23.4408,-10.018 0,0 -12.2159,-34.6416 -21.8442997,-58.995 l -6.1016,-17.3116 z"
+         id="path12573"
+         style="fill:none;fill-opacity:1;stroke:#005a7d;stroke-width:10.7762px;stroke-miterlimit:10;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         class="cls-2"
+         d="m -42.131203,-673.17135 c 6.1745,-23.2365 13.9782,-43.752 25.8827,-65.1324 0,0 15.2300003,-32.472 23.0609003,-57.6181 v 0 c 1.7921,-5.819 7.6868997,-9.3406 13.7935997,-8.4065 4.8875,0.7874 10.0574,1.5205 15.5911,2.145 2.0093,0.2716 4.0214,0.353 6.0334,0.5702 12.1551,0.335 23.948,0.8281 35.3217,0.9125 5.6869,0.042 11.269,-0.018 16.7392,-0.2506 5.4702,-0.233 14.826803,-1.0643 20.066103,-1.714 1.5043,-0.187 28.7691,-3.6554 29.687,-122.2833 -1.9028,-118.46675 -35.1481,-114.87715 -36.4929,-114.87715 -48.492103,0 -75.721003,36.2818 -122.488903,80.17725 -63.1489,59.2694 -102.517597,13.0742 -118.825597,-20.1882 -10.0601,-22.55875 -19.0395,-47.56115 -34.7013,-62.21555 -2.2265,-2.0907 -3.0872,-5.3165 -2.4437,-8.4065 l 1.7921,-8.3333 c 0.2715,-1.0861 -0.4888,-2.0908 -1.6563,-2.2265 -7.4019,-0.4888 -13.5058,2.0908 -18.8957,8.2627 -2.5795,-0.6517 -5.3871,-1.1405 -8.4065,-1.4392 -19.39521,-2.0908 -23.27531,7.7603 -42.09761,7.7603 h -9.1234 c -17.0275,0 -31.2582,8.1134 -38.2202,20.0443 -5.5555,9.5172 -5.7428,19.8732 3.3805,20.8779 -2.813,10.02495 6.5683,13.93765 27.5221,4.3363 0,0 16.4736,9.46285 39.2982,9.46285 12.3355,0 16.0093,1.9551 20.53561,21.7197 10.9181,48.0607 54.0232,127.0893 141.167297,127.0893 0.9232,1.3033 1.7921,2.5795 2.661,3.7335 14.8009,20.9782 19.3273,47.4875 10.7769,71.5557 -6.8968,19.4685 -15.6617,34.4107 -15.6617,34.4107 0.2715,2.661 0.2715,5.2459 0.2715,7.8309 -0.4248,20.4394 -5.7308,43.6059 -10.7001,57.6018"
+         id="path12575"
+         style="fill:#e9e9e9;fill-opacity:1;stroke:#005a7d;stroke-width:10.776;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ccsscccssccsccccccccsscccsccccccc" />
+      <path
+         class="cls-1"
+         d="m -200.0917,-1034.1806 c -0.4888,0.2715 -1.33051,0.3531 -2.28091,0.4616 -0.6788,4.1354 -4.0864,7.3368 -8.42,7.3368 -4.3309,0 -7.8037,-3.1987 -8.488,-7.3368 -0.9504,0 -1.7921,-0.2715 -2.2808,-0.4616 -2.1994,-0.9231 4.2548,-6.1203 10.7226,-6.1203 6.4678,0 12.91931,5.189 10.72271,6.1203 z"
+         id="path12577"
+         style="fill:#005a7d;fill-opacity:1;stroke:none;stroke-width:0px;stroke-opacity:1" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#005a7d;stroke-width:25;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="circle12579"
+         cx="-113.39074"
+         cy="-920.09485"
+         r="256.42252" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#e9e9e9;stroke-width:27.2969;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="circle12581"
+         cx="-113.39074"
+         cy="-920.09485"
+         r="279.98148" />
+    </g>
+  </g>
+</svg>
