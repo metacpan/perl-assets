@@ -167,3 +167,9 @@ published in GNU/Linux Magazine France in 2006.
 - Can I Put This on a T-shirt, Mug or Candle?
 
   Yes!
+
+- Can I Put This on a Book About Perl?
+
+  No. Our understanding of O'Reilly's position is that we are free to use a
+  camel in association with Perl, with the exception of books about Perl. See
+  L<https://neilb.org/2020/12/04/perl-and-camels.html> for more details.
