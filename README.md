@@ -107,6 +107,47 @@ ownership of the original image. The main takeaway is a call for a new camel
 that is free from the constraints of O'Reilly's copyright, to be used as a
 symbol for Perl moving forward.
 
+## What About the Onion?
+
+The onion is the logo for [The Perl and Raku
+Foundation](https://www.perlfoundation.org/trademarks.html). BooK discussed the
+onion logo with Allison Randal during an interview at OSCON Europe in October
+2005.
+
+Here's a transcript:
+
+> - Philippe
+>   And what about the logo? Personally, I saw it as a way to become more
+>   independent from the O'Reilly legalese and the fact that everywhere you use
+>   the Camel you need to acknowledge the fact that the Camel is a trademark of
+>   O'Reilly. But is there something else?
+> - Allison
+>   Well, that is a nice side effect. The main thing is that because of the
+>   trademark relationship, there's a few places where we really *can't* use
+>   the Camel at all. Say, if we published a collection of Perl documentation
+>   or something like that, we really could not use the Camel in that context.
+>   Because that's the one that O'Reilly is protecting it for.
+>   So we started the process just to give us another option in a few places.
+>   But as we go on it seems to have kind of taken a life of its own. It's been
+>   showing up on YAPC T-shirts and things like that.
+> - Philippe
+>   It's a nice logo, because the onion has been part of Larry's talks for a
+>   while, so it's already part of the culture.
+> - Allison
+>   Yeah. We spent a good deal of time looking for the right logo. We tried a
+>   whole bunch of different things. At the very beginning we thought "Not an
+>   onion, because it doesn't make a very good logo." We looked for something
+>   else and just kept coming back to the onion because of that connection to
+>   Perl history. Then we found an artist who did an onion that we liked so we
+>   went with it.
+> - Who's the author of the onion?
+>   His name is Devin Shane Muldoon. He's an artist in the San Francisco area.
+>   He's really talented.
+
+A [French translation of the
+interview](https://articles.mongueurs.net/interviews/randal-2005.html) was
+published in GNU/Linux Magazine France in 2006.
+
 ## See also
 
 - <https://dev.to/thibaultduponchelle/the-perl-complex-topic-of-logos-3161>
