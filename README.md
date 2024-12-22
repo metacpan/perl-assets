@@ -104,7 +104,7 @@ A quick summary of Neil's post is:
 Neil advocated for a fresh, community-friendly logo for Perl, while respecting
 the historical significance of the camel symbol and acknowledging O'Reilly’s
 ownership of the original image. The main takeaway is a call for a new camel
-that is free from the constraints of O'Reilly's copyright, to be used as a
+that is free from the constraints of O'Reilly's trademark, to be used as a
 symbol for Perl moving forward.
 
 ## What About the Onion?
