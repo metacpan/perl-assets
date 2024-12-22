@@ -123,7 +123,7 @@ symbol for Perl moving forward.
 
 - Who put you in charge?
 
-  Nobody. Traditionally things happen in Perl becomes somebody does something
+  Nobody. Traditionally things happen in Perl because somebody does something
   and enough other people think it's worth adopting. It's in this spirit that
   the logo is being presented. Our hope is that all (or most) of us can
   standardize on the same artwork. This current working group arose out of a
