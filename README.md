@@ -41,7 +41,7 @@ The blessed and experimental logos are the work of Sébastien Feugère.
 Feedback on Sébastien Feugère's work was kindly given (in first name
 alphabetical order) by:
 
-- Αριστοτέλης Παγκαλτζής (ARISTOTLE)
+- Aristotle Pagaltzis
 - Bruno Meneguele
 - D Ruth Holloway
 - Dallas Hogan
