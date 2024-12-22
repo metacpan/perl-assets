@@ -174,9 +174,4 @@ published in GNU/Linux Magazine France in 2006.
 
 - Can I Put This on a T-shirt, Mug or Candle?
 
-  Please do! We understand that attribution may not be possible in these
-  circumstances. In these cases we would rather you use the logo than worry
-  about the attribution aspect of the license. You can be creative as well. If,
-  for example, the t-shirts are for a conference, you could add the attribution
-  to the conference website. At the end of the day, it's your logo and it's
-  your call as to whether you can reasonably add the attribution.
+  Yes!
