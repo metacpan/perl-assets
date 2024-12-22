@@ -111,7 +111,7 @@ symbol for Perl moving forward.
 
 The onion is the logo for [The Perl and Raku
 Foundation](https://www.perlfoundation.org/trademarks.html). BooK discussed the
-onion logo with Allison Randal during an interview at OSCON Europe in October
+onion logo with Allison Randal (who had just finished her tenure as president of the Perl Foundation) during an interview at OSCON Europe in October
 2005.
 
 Here's a transcript:
