@@ -108,12 +108,12 @@ onion logo with Allison Randal (who had just finished her tenure as president of
 
 Here's a transcript:
 
-> - Philippe
+> - Philippe  
 >   And what about the logo? Personally, I saw it as a way to become more
 >   independent from the O'Reilly legalese and the fact that everywhere you use
 >   the Camel you need to acknowledge the fact that the Camel is a trademark of
 >   O'Reilly. But is there something else?
-> - Allison
+> - Allison  
 >   Well, that is a nice side effect. The main thing is that because of the
 >   trademark relationship, there's a few places where we really *can't* use
 >   the Camel at all. Say, if we published a collection of Perl documentation
@@ -122,19 +122,19 @@ Here's a transcript:
 >   So we started the process just to give us another option in a few places.
 >   But as we go on it seems to have kind of taken a life of its own. It's been
 >   showing up on YAPC T-shirts and things like that.
-> - Philippe
+> - Philippe  
 >   It's a nice logo, because the onion has been part of Larry's talks for a
 >   while, so it's already part of the culture.
-> - Allison
+> - Allison  
 >   Yeah. We spent a good deal of time looking for the right logo. We tried a
 >   whole bunch of different things. At the very beginning we thought "Not an
 >   onion, because it doesn't make a very good logo." We looked for something
 >   else and just kept coming back to the onion because of that connection to
 >   Perl history. Then we found an artist who did an onion that we liked so we
 >   went with it.
-> - Philippe
+> - Philippe  
 >   Who's the author of the onion?
-> - Allison
+> - Allison  
 >   His name is Devin Shane Muldoon. He's an artist in the San Francisco area.
 >   He's really talented.
 
