@@ -132,7 +132,9 @@ Here's a transcript:
 >   else and just kept coming back to the onion because of that connection to
 >   Perl history. Then we found an artist who did an onion that we liked so we
 >   went with it.
-> - Who's the author of the onion?
+> - Philippe
+>   Who's the author of the onion?
+> - Allison
 >   His name is Devin Shane Muldoon. He's an artist in the San Francisco area.
 >   He's really talented.
 
