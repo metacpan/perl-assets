@@ -87,14 +87,14 @@ A quick summary of Neil's post is:
 
 ### A New Camel for Perl
 
-- Neil B suggests that Perl could adopt a new camel logo—separate from the one
+- Neil Bowers suggests that Perl could adopt a new camel logo—separate from the one
   used on O'Reilly's book cover—and use it as the official symbol for the Perl
   language.
 
 - The goal is to create a logo that represents not just the language but also
   the community, one that feels friendly and welcoming.
 
-- Neil B acknowledges that the "camel association" will always be tied to Perl,
+- Neil Bowers acknowledges that the "camel association" will always be tied to Perl,
   even if a new logo is chosen. He suggests this is a pragmatic approach,
   emphasizing that the restrictions around using camels on books are not a
   major issue.
@@ -108,12 +108,12 @@ onion logo with Allison Randal (who had just finished her tenure as president of
 
 Here's a transcript:
 
-> - Philippe  
+> - Philippe
 >   And what about the logo? Personally, I saw it as a way to become more
 >   independent from the O'Reilly legalese and the fact that everywhere you use
 >   the Camel you need to acknowledge the fact that the Camel is a trademark of
 >   O'Reilly. But is there something else?
-> - Allison  
+> - Allison
 >   Well, that is a nice side effect. The main thing is that because of the
 >   trademark relationship, there's a few places where we really *can't* use
 >   the Camel at all. Say, if we published a collection of Perl documentation
@@ -122,19 +122,19 @@ Here's a transcript:
 >   So we started the process just to give us another option in a few places.
 >   But as we go on it seems to have kind of taken a life of its own. It's been
 >   showing up on YAPC T-shirts and things like that.
-> - Philippe  
+> - Philippe
 >   It's a nice logo, because the onion has been part of Larry's talks for a
 >   while, so it's already part of the culture.
-> - Allison  
+> - Allison
 >   Yeah. We spent a good deal of time looking for the right logo. We tried a
 >   whole bunch of different things. At the very beginning we thought "Not an
 >   onion, because it doesn't make a very good logo." We looked for something
 >   else and just kept coming back to the onion because of that connection to
 >   Perl history. Then we found an artist who did an onion that we liked so we
 >   went with it.
-> - Philippe  
+> - Philippe
 >   Who's the author of the onion?
-> - Allison  
+> - Allison
 >   His name is Devin Shane Muldoon. He's an artist in the San Francisco area.
 >   He's really talented.
 
@@ -166,11 +166,11 @@ published in GNU/Linux Magazine France in 2006.
   enough stakeholders in the same room to come to an agreement in principle and
   then move ahead with the project.
 
-- Can I Put This on a T-shirt, Mug or Candle?
+- Can I put this on a T-shirt, Mug or Candle?
 
   Yes!
 
-- Can I Put This on a Book About Perl?
+- Can I put this on a book about Perl?
 
   No. Our understanding of O'Reilly's position is that we are free to use a
   camel in association with Perl, with the exception of books about Perl. See
