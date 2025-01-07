@@ -174,4 +174,9 @@ published in GNU/Linux Magazine France in 2006.
 
   No. Our understanding of O'Reilly's position is that we are free to use a
   camel in association with Perl, with the exception of books about Perl. See
-  L<https://neilb.org/2020/12/04/perl-and-camels.html> for more details.
+  <https://neilb.org/2020/12/04/perl-and-camels.html> for more details.
+
+- Who holds ownership of the logos, for copyright purposes?
+
+  The logo is Copyright (c) 2024 Olaf Alders, licensed under the CC-BY License,
+  Version 4.0 <https://creativecommons.org/licenses/by/4.0/>.
