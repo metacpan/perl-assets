@@ -99,6 +99,9 @@ A quick summary of Neil's post is:
   emphasizing that the restrictions around using camels on books are not a
   major issue.
 
+- Neil Bowers shared the advent post about the new camel logo with Tim O'Reilly,
+  and our agreement on "no books". Tim said that it worked for him.
+
 ## What About the Onion?
 
 The onion is the logo for [The Perl and Raku
