@@ -1,0 +1,37 @@
+name: Generate all assets
+
+on:
+  push:
+    branches: main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install prerequisites
+        run: | 
+          npm i svgo
+          sudo apt-get install -y librsvg2-bin
+
+      - name: Clean exports directory
+        run: |
+          git rm blessed/exports/*.svg || true
+          git rm blessed/exports/*.png || true
+
+      - name: Generate all sizes in SVG and PNG
+        run: 
+          bash generate.sh
+
+      - name: Optimize SVGs
+        run: 
+          ./node_modules/.bin/svgo --pretty blessed/exports/*.svg
+      
+      - name: Commit and push blessed/exports
+        run: |
+          git config --global user.name "Assets Generator"
+          git config --global user.email "thibaultduponchelle@users.noreply.github.com"
+          git add blessed/exports 
+          git commit -m "Generate several sizes in SVG and PNG" || true
+          git push || true
