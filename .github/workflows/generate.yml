@@ -13,7 +13,7 @@ jobs:
       - name: Install prerequisites
         run: | 
           npm i svgo
-          sudo apt-get install -y librsvg2-bin
+          sudo apt-get install -y librsvg2-bin imagemagick
 
       - name: Clean exports directory
         run: |
