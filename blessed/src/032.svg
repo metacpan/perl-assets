@@ -8,7 +8,7 @@
    version="1.1"
    id="svg779"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="advent_alt_source.svg"
+   sodipodi:docname="032.svg"
    inkscape:export-filename="2024-12-06_pre-advent-announce_comparator.png"
    inkscape:export-xdpi="72"
    inkscape:export-ydpi="72"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.06304666"
-     inkscape:cx="8176.4839"
-     inkscape:cy="5313.5249"
+     inkscape:zoom="1.4265831"
+     inkscape:cx="995.73592"
+     inkscape:cy="815.93567"
      inkscape:window-width="2560"
      inkscape:window-height="1403"
      inkscape:window-x="0"
@@ -104,7 +104,7 @@
        id="g14388"
        transform="translate(0,-211.66673)">
       <circle
-         style="fill:#e9e9e9;fill-opacity:1;stroke-width:0.122307"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.122307"
          id="circle13158"
          cx="-800.4975"
          cy="-928.90619"
@@ -128,7 +128,7 @@
          class="cls-1"
          d="m -888.00868,-1042.5038 c -0.4888,0.2715 -1.33051,0.353 -2.28091,0.4616 -0.6788,4.1353 -4.0864,7.3367 -8.42,7.3367 -4.3309,0 -7.80371,-3.1986 -8.48801,-7.3367 -0.9504,0 -1.7921,-0.2715 -2.2808,-0.4616 -2.1994,-0.9232 4.2548,-6.1203 10.72261,-6.1203 6.4678,0 12.91931,5.189 10.72271,6.1203 z"
          id="path13164"
-         style="fill:#e9e9e9;fill-opacity:1;stroke:none;stroke-width:0px;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0px;stroke-opacity:1" />
       <circle
          style="fill:none;fill-opacity:1;stroke:#005a7d;stroke-width:25;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          id="circle13166"
@@ -136,7 +136,7 @@
          cy="-928.42206"
          r="256.42252" />
       <circle
-         style="fill:none;fill-opacity:1;stroke:#e9e9e9;stroke-width:27.2969;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:27.2969;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          id="circle13168"
          cx="-801.30707"
          cy="-928.42206"
