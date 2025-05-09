@@ -4,7 +4,7 @@ We provide a `favicon.ico` with multiple sizes and a SVG
 You can find them at [blessed/favicons/](blessed/favicons/)
 
 ```html
-<link rel="icon" href="/favicon.ico">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 ```
 
