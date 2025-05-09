@@ -8,7 +8,7 @@ You can find them at [blessed/favicons/](blessed/favicons/)
 <link rel="icon" href="/icon.svg" type="image/svg+xml">
 ```
 
-This is minimal setup, you can install more favicons and manifests.
+This is minimal setup, you can install [more favicons and manifests](https://developer.mozilla.org/en-US/docs/Glossary/Favicon).
 
 ## Notes
 SVG starts to be [more widely compatible](https://caniuse.com/link-icon-svg)
