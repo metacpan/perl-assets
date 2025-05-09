@@ -13,15 +13,17 @@ CC-BY. We hope that you will take it, use it and make it your own.
 
 There are several folders:
 
-- `./base` contains the original camel artwork. This is the camel which is the
+- [base/](base/) contains the original camel artwork. This is the camel which is the
   source of the more polished artwork which is found elsewhere. All art in this
   repository is licensed under CC-BY, so you are free to use these images as
   source material.
-- `./experimental` contains experiments from which were used in coming up with
+- [experimental/](experimental/) contains experiments from which were used in coming up with
   final logo designs.
-- `./blessed` contains the "official" logos. If you are designing icons for an
+- [blessed/exports/](blessed/exports/) contains the "official" logos. If you are designing icons for an
   Operating System, an IDE or need a `favicon.ico`, we would ask you to draw
   from these assets.
+- [blessed/favicons/](blessed/favicons/) contains the "official" favicons. 
+  Read [FAVICONS](FAVICONS.md) for help with favicons.
 
 ### Attribution
 

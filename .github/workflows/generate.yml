@@ -13,12 +13,15 @@ jobs:
       - name: Install prerequisites
         run: | 
           npm i svgo
-          sudo apt-get install -y librsvg2-bin
+          sudo apt-get install -y librsvg2-bin imagemagick
 
       - name: Clean exports directory
         run: |
           git rm blessed/exports/*.svg || true
           git rm blessed/exports/*.png || true
+          git rm blessed/favicons/*.png || true
+          git rm blessed/favicons/*.svg || true
+          git rm blessed/favicons/*.ico || true
 
       - name: Generate all sizes in SVG and PNG
         run: 
@@ -33,5 +36,6 @@ jobs:
           git config --global user.name "Assets Generator"
           git config --global user.email "thibaultduponchelle@users.noreply.github.com"
           git add blessed/exports 
+          git add blessed/favicons
           git commit -m "Generate several sizes in SVG and PNG" || true
           git push || true
