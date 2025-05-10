@@ -20,8 +20,7 @@ There are several folders:
 - [experimental/](experimental/) contains experiments from which were used in coming up with
   final logo designs.
 - [blessed/exports/](blessed/exports/) contains the "official" logos. If you are designing icons for an
-  Operating System, an IDE or need a `favicon.ico`, we would ask you to draw
-  from these assets.
+  Operating System or an IDE, we would ask you to draw from these assets.
 - [blessed/favicons/](blessed/favicons/) contains the "official" favicons. 
   Read [FAVICONS](FAVICONS.md) for help with favicons.
 
