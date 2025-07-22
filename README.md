@@ -1,5 +1,7 @@
 # The Perl Logo
 
+![A white camel in a dark blue circle](https://github.com/metacpan/perl-assets/blob/main/blessed/exports/perl-081-300.png)
+
 ## The Repository
 
 ### Purpose
